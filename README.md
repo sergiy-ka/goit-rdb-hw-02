@@ -1,4 +1,4 @@
-## Початкова таблиця
+# Початкова таблиця
 
 ![Initial table](./assets/initial_table.jpg)
 
